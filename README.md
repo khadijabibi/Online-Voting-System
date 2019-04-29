@@ -31,17 +31,23 @@ You are part of a team that is assigned to develop a web based voting system to 
 The ultimate goal of management is to offer a secure online voting system that can be accessed via company intranet.
  
 
-Iteration one 
+Iteration One
+=====================================
+
 You will need to complete the project for Iteration one based on information provided in the Case Study and Additional details obtained during JAD sessions for this project. You can have two JAD sessions for this assignment. Your first JAD session is booked for Thursday 3rd May.
 
 Expected outcome from iteration one
 Development of database and web application to manage election of staff representative. 
 Your application will have a home page that displays the system name, a welcome message and provide links for a user to choose between a Voter, Administrator or Help option.
 
-Administrator option:
+Administrator option
+=====================================
+
 Administrator link will take user to a page where they can login with their username and password. Appropriate error messages should be displayed for incorrect admin username and password. Once an administrator successfully login to the system, they will be redirected to admin menu page, where they can manage System Admin, candidate, staff, voting date restrictions and view reports.
 
 Voter option:
+=====================================
+
 Voter link will take user to a page where they can register as a new user or login with their username and password. Appropriate error messages should be displayed for incorrect voter username and password. 
 Once a voter successfully login to the system, they will be redirected to a page, where they can cast their vote. 
 •	If the staff is eligible to vote (cannot vote twice!), the system welcomes the staff by name and displays a list of candidates to choose from.
@@ -51,5 +57,7 @@ Once a voter successfully login to the system, they will be redirected to a page
 •	Every time a staff votes, that staff is flagged as voted and the candidate count is incremented by one. Each candidate carries his/her own vote counts.
 
 Help option:
+=====================================
+
 Help link will take user to a page where they can access details about the voting process and how your system works. This could be presented in a Question/Answer format or a help menu. (Note: Content should be extracted from database and not hardcoded into the website)
 
