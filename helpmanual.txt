@@ -1,0 +1,18 @@
+How to Vote?
+
+Login the system. After Login It will check whether you are eligible or not. Then You will be redirected to a page.
+where you can vote.A list of candidate will show on screen then you can select the candidate you want to vote. After
+selecting you have to Confirm your seletion. Once confirmed, the system will be updated that you have voted. 
+
+How to manage candidate?
+
+Login as a administrator.  Click manage candidate link then fill out the form, to add click add, and to delete, just select the ID and press Delete. The system will be updated.
+You will be able to view all candidate in the database on screen as you enter the screen. To refresh the screen to see what you have just entered then press cancel to exit the page and come back to page by clicking manage candidate
+then you will see the candidate added on screen.
+
+How to manage staff?
+
+Login as a administrator.  Click manage staff link then fill out the form, to add click add, and to delete, just enter the email and press Delete. The system will be updated.
+You will be able to view all staff in the database on screen as you enter the screen. To refresh the screen to see what you have just entered then press cancel to exit the page and come back to page by clicking manage staff
+then you will see the staff added on screen.
+
